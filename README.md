@@ -36,19 +36,21 @@ This C-based app is designed to solve puzzles that consist of "#" placeholders a
 
 <h2 id="start-using">🎲 Start Using</h2>
 
-The first release of the app is available under the releases, you can download and check.
+- The first release of the code is available under the releases, you can download and test.
+- Example input is available in example_input.txt file. 
 
 <h2 id="getting-started">🛠 Getting Started</h2>
 
-Anyone can get started with this project easily.
-
-1. Install android studio to your PC.
-2. Clone the project repository.
+Anyone can do improvements for my code to make it more efficient.
+1. Clone the project repository.
    
 ```
 git clone https://github.com/Bambara123/e19-co225-Mobile-app-for-Inpatient-Management-System.git
 ```
 
-3. Start adding any feature using android studio.
+2. Loacte the final.c file and hit run.
 
 <h2 id="contributors">🧑‍💻 Contributors</h2>
+
+<li><a href="https://github.com/Madhushanka00"><b><i>Mahesha</i></b></a> E/19/226 MADHUSHANKA K.G.M. MR</li>
+
