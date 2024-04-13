@@ -34,7 +34,7 @@
 ## 🚀 Introduction
 This C-based app is designed to solve puzzles that consist of "#" placeholders and words to fill them in. By employing a trial and error method, it systematically explores various combinations to find the solution.
 
-<h2 id="start-using">📱 Use the App</h2>
+<h2 id="start-using">🎲 Start Using</h2>
 
 The first release of the app is available under the releases, you can download and check.
 
