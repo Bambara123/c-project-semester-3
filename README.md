@@ -52,5 +52,5 @@ git clone https://github.com/Bambara123/e19-co225-Mobile-app-for-Inpatient-Manag
 
 <h2 id="contributors">🧑‍💻 Contributors</h2>
 
-<li><a href="https://github.com/Madhushanka00"><b><i>Mahesha</i></b></a> E/19/226 MADHUSHANKA K.G.M. MR</li>
+<li><a href="https://github.com/Madhushanka00"><b><i>Mahesha Madhushanka</i></b></a> E/19/226 MADHUSHANKA K.G.M. MR</li>
 
