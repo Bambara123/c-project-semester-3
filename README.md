@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="docs/images/logo.png" alt="" style="height: 200px; width: 200px;">
   <h1><b>Simple Puzzle Solving Programe Using C</b></h1>
 </div>
 
-<h4 align="center">Inpatient Hospital Management System 🏥 | Android Studio</h4>
+<h4 align="center">Crossword Puzzle Solver🧩 | Pure C</h4>
 
 <div align="center">
     <a href="https://github.com/bambara123/Food-Delivery-Website-Project-C0226/issues">
@@ -25,24 +24,21 @@
 ## 📜 Table of Content
 
 <ol style="list-style-type: decimal;">
-  <li><a href="#problem-overview">Problem Overview</a></li>
-  <li><a href="#our-solution">Our Solution</a></li>
-  <li><a href="#solution-architecture">Solution Architecture</a></li>
+  <li><a href="#Introduction">Introduction</a></li>
+  <li><a href="#start-using">Start Using</a></li>
   <li><a href="#getting-started">Getting Started</a></li>
+  <li><a href="#contributors">Contributors</a></li>
 </ol>
 
 
 ## 🚀 Introduction
+This C-based app is designed to solve puzzles that consist of "#" placeholders and words to fill them in. By employing a trial and error method, it systematically explores various combinations to find the solution.
 
-
-
-
-
- <h2 id="getting-started">📱 Use the App</h2>
+<h2 id="start-using">📱 Use the App</h2>
 
 The first release of the app is available under the releases, you can download and check.
 
- <h2 id="getting-started">🛠 Getting Started</h2>
+<h2 id="getting-started">🛠 Getting Started</h2>
 
 Anyone can get started with this project easily.
 
@@ -55,4 +51,4 @@ git clone https://github.com/Bambara123/e19-co225-Mobile-app-for-Inpatient-Manag
 
 3. Start adding any feature using android studio.
 
-<h2>Team Members</h2>
+<h2 id="contributors">🧑‍💻 Contributors</h2>
