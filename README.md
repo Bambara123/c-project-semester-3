@@ -48,7 +48,7 @@ Anyone can do improvements for my code to make it more efficient.
 git clone https://github.com/Bambara123/e19-co225-Mobile-app-for-Inpatient-Management-System.git
 ```
 
-2. Loacte the final.c file and hit run.
+2. Loacte the inside final folder locate ps4.c file and hit run.
 
 <h2 id="contributors">🧑‍💻 Contributors</h2>
 
