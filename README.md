@@ -5,17 +5,17 @@
 <h4 align="center">Crossword Puzzle Solver🧩 | Pure C</h4>
 
 <div align="center">
-    <a href="https://github.com/bambara123/Food-Delivery-Website-Project-C0226/issues">
-        <img src="https://img.shields.io/github/issues/bambara123/Food-Delivery-Website-Project-C0226" alt="GitHub issues">
+    <a href="https://github.com/bambara123/c-project-semester-3/issues">
+        <img src="https://img.shields.io/github/issues/bambara123/c-project-semester-3" alt="GitHub issues">
     </a>
-    <a href="https://github.com/bambara123/Food-Delivery-Website-Project-C0226/pulls">
-        <img src="https://img.shields.io/github/issues-pr/bambara123/Food-Delivery-Website-Project-C0226" alt="GitHub pull requests">
+    <a href="https://github.com/bambara123/c-project-semester-3/pulls">
+        <img src="https://img.shields.io/github/issues-pr/bambara123/c-project-semester-3" alt="GitHub pull requests">
     </a>
-    <a href="https://github.com/bambara123/Food-Delivery-Website-Project-C0226/releases">
-        <img src="https://img.shields.io/github/downloads/bambara123/Food-Delivery-Website-Project-C0226/total" alt="GitHub downloads">
+    <a href="https://github.com/bambara123/c-project-semester-3/releases">
+        <img src="https://img.shields.io/github/downloads/bambara123/c-project-semester-3/total" alt="GitHub downloads">
     </a>
-    <a href="https://github.com/bambara123/Food-Delivery-Website-Project-C0226/releases">
-        <img src="https://img.shields.io/github/v/release/bambara123/Food-Delivery-Website-Project-C0226" alt="GitHub release">
+    <a href="https://github.com/bambara123/c-project-semester-3/releases">
+        <img src="https://img.shields.io/github/v/release/bambara123/c-project-semester-3" alt="GitHub release">
     </a>
 </div>
 
